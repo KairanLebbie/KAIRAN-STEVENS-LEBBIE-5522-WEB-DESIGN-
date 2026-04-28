@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal page for Kairan Stevens Lebbie, a second year student at Limkokwing University.">
+    <meta name="author" content="Kairan Stevens Lebbie">
+    <title>Kairan's Page</title>
+    
+</head>
+
+<body>
+
+<header>
+    <h1>Kairan Stevens Lebbie</h1>
+    <p>BSEM 1201</p>
+    <hr>
+</header>
+
+<main>
+
+    <h2>About Me</h2>
+    <p>
+        My name is Kairan Stevens Lebbie. I am currently a second year student at 
+        Limkokwing University. I study with focus and I am always trying to improve 
+        myself, especially in technology. I am interested in learning new things 
+        and building skills that will help me in the future.
+    </p>
+
+    <h2>My Goals</h2>
+    <ol>
+        <li>To become successful and financially stable before I turn 28.</li>
+        <li>To graduate with good grades.</li>
+        <li>To stay fit and take care of my health.</li>
+        <li>To do something meaningful for my country.</li>
+        <li>To build a strong career in tech.</li>
+    </ol>
+
+</main>
+
+<footer>
+    <hr>
+    <p>© 2026 Kairan</p>
+    <p>Email: lebbiekairan@gmail.com</p>
+</footer>
+
+</body>
+</html>
